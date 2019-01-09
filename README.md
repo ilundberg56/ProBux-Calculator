@@ -1,4 +1,4 @@
-ProBux-Calculator
+earnings calculator 
 =================
 
 earnings calculator
